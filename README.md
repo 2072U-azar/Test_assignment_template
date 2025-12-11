@@ -1,2 +1,3 @@
 # Test_assignment_template
 template for A1
+Added some text to README: deadline, instructions,...
